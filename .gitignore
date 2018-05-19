@@ -1,0 +1,6 @@
+summary_logs
+tensorflow_dataset_estimator/dataset/*
+tensorflow_dataset_estimator/model/*
+tensorflow_dataset_estimator/tf_custom_estimators/*
+tf_flags/__pycache__/
+
